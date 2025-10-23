@@ -23,10 +23,10 @@ if not st.session_state.started:
 
     st.markdown(
         """
-        **🩹 How it works:**
+        **💊 How it works:**
         1. Answer 4 short questions
-        2. View personalized birth control recommendations that may be right for you, before consulting a Mochi provider  
-        3. Learn about all the options we offer
+        2. View personalized birth control recommendations that may be right for you  
+        3. Discuss your options with a Mochi provider
         """
     )
     if st.button("Start Quiz"):
